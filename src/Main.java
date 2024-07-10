@@ -75,4 +75,4 @@ public class Main {
         int deliveryDistance = 95;
         distance(deliveryDistance);
     }
-}
+}}
